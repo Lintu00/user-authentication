@@ -1,0 +1,6 @@
+{
+  "name": "user-authentication",
+  "description": "user authentication app",
+  "main": "server.js",
+  "author": "Lintu00"
+}
